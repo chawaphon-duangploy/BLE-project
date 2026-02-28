@@ -1,4 +1,4 @@
-# Wireless Sensor System over BLE Network
+<img width="1269" height="694" alt="MQTT_Publish_Subscribe_Architecture" src="https://github.com/user-attachments/assets/80cd4c75-00fe-44aa-b087-c04c8a9d531d" /># Wireless Sensor System over BLE Network
 
 ## ระบบเซ็นเซอร์ไร้สายผ่านโครงข่าย BLE
 
@@ -40,21 +40,15 @@ Additionally, the system stores data in:
 
 ## 🔹 Block Diagram
 <p align="center">
-  <img src="img_BLE/block_diagram_BLE.png" width="500" height="900"/>
+  <img src="img_BLE/block_diagram_BLE.png" width="700" />
 </p>
-Sensor (MCP9808 / LM75)
-⬇ BLE
-ESP32 (Client)
-⬇ WiFi
-MQTT Broker
-⬇
-Node-RED
-⬇
-Dashboard / Google Sheets / Firebase
 
 ---
 
 # 🔧 Hardware Components
+<p align="center">
+  <img src="img_BLE/ESP32_Temperature_Monitoring_Hardware_Setup.jpg" width="700" />
+</p>
 
 | Component                 | Description                                |
 | ------------------------- | ------------------------------------------ |
@@ -156,6 +150,10 @@ temperature/lm75
 ```
 
 ---
+<p align="center">
+  <img src="img_BLE/MQTT_Publish_Subscribe_Architecture.png
+" width="700" />
+</p>
 
 ## 3️⃣ MQTT to Node-RED
 
