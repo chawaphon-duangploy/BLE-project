@@ -1,4 +1,4 @@
-<img width="1269" height="694" alt="MQTT_Publish_Subscribe_Architecture" src="https://github.com/user-attachments/assets/80cd4c75-00fe-44aa-b087-c04c8a9d531d" /># Wireless Sensor System over BLE Network
+# Wireless Sensor System over BLE Network
 
 ## ระบบเซ็นเซอร์ไร้สายผ่านโครงข่าย BLE
 
