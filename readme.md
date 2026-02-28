@@ -39,7 +39,9 @@ Additionally, the system stores data in:
 # 🧠 System Architecture
 
 ## 🔹 Block Diagram
-
+<p align="center">
+  <img src="img_BLE/block_diagram_BLE.png" width="500" height="900"/>
+</p>
 Sensor (MCP9808 / LM75)
 ⬇ BLE
 ESP32 (Client)
